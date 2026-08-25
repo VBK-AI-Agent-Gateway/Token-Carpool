@@ -1,57 +1,42 @@
-# Contributing to VBK-AI Agent Gateway
+# Contributing to Token Carpool
 
-Thank you for your interest in contributing! This repository contains **documentation only** — the gateway source code is proprietary.
+Thank you for your interest in contributing to Token Carpool!
 
-## What We Accept
+## Ways to Contribute
 
-- 📖 **Documentation improvements** — fixes, clarifications, translations
-- 🐛 **Bug reports** — via GitHub Issues (include steps to reproduce)
-- 💡 **Feature requests** — via GitHub Issues (describe use case)
-- 📊 **Benchmark data** — real-world measurements from your usage
+### 1. Report Issues
+- Use GitHub Issues for bug reports
+- Include reproduction steps and environment details
+- For security issues, see [SECURITY.md](SECURITY.md)
 
-## What We Don't Accept
+### 2. Suggest Features
+- Open a GitHub Issue with the `enhancement` label
+- Describe the use case and expected behavior
+- Include examples if possible
 
-- ❌ Source code (this is a documentation repo)
-- ❌ Automated bulk edits
-- ❌ Off-topic discussions
+### 3. Improve Documentation
+- Fix typos, improve clarity
+- Add usage examples
+- Translate documentation
 
-## How to Contribute
+### 4. Become a Token Seller
+- Register at [http://www.agentgwapi.online:8888/register](http://www.agentgwapi.online:8888/register)
+- Share your idle API tokens
+- Help grow the Token Carpool ecosystem
 
-1. **Fork** this repository
-2. **Create a branch** (`git checkout -b docs/improve-quickstart`)
-3. **Make your changes** following our style guide below
-4. **Submit a PR** with a clear description of what changed and why
+## Development Process
 
-## Style Guide
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-- Use **American English** for documentation
-- Keep paragraphs concise (3-5 sentences max)
-- Use tables for structured data
-- Include code examples where applicable
-- Link to relevant sections in `docs/` when referencing concepts
+## Contact
 
-## Issue Templates
-
-### Bug Report
-- **What happened**: Clear description of the issue
-- **Expected behavior**: What should have happened
-- **Steps to reproduce**: Numbered list
-- **Environment**: Agent name, provider, gateway version
-
-### Feature Request
-- **Use case**: What problem does this solve?
-- **Proposed solution**: How should it work?
-- **Alternatives considered**: Other approaches you thought about
-
-## Code of Conduct
-
-Be respectful, constructive, and professional. We're here to help developers save on LLM costs.
-
-## Questions?
-
-- Open a [GitHub Discussion](https://github.com/430024299qt-cpu/Agent-Gateway/discussions)
-- Email: support@agentgwapi.online
+- **Email**: support@agentgwapi.online
+- **Website**: [http://www.agentgwapi.online:8888](http://www.agentgwapi.online:8888)
 
 ---
 
-*Last updated: August 2026*
+*Thank you for helping make Token Carpool better!*
